@@ -1,6 +1,6 @@
 package company.casestudy;
 
-public class Employee {
+public class CaseStudy_Employee {
     // Instance variables
     private String name;
     private int age;
