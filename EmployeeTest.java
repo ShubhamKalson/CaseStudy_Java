@@ -1,4 +1,4 @@
-package company.test;
+package company.casestudy;
 import company.employee.Employee; 
 
 public class EmployeeTest {
