@@ -1,5 +1,5 @@
 package company.casestudy;
-import company.employee.Employee; 
+import company.casestudy.CaseStudy_Employee; 
 
 public class CaseStudy_EmployeeTest {
     public static void main(String[] args) {
