@@ -1,4 +1,4 @@
-package company.employee;
+package company.casestudy;
 
 public class Employee {
     // Instance variables
