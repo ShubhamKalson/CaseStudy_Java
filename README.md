@@ -1,3 +1,3 @@
 # CaseStudy_Java
 
-I've established two classes within seperate packages. One package, "Company.employee" houses the "Employee" class, while the "Company.test" package contains the "EmployeeTest" class. The "Company.employee" package has been imported into the "Company.test" package.
+I've established two classes within seperate packages. One package, "company.casestudy" houses the "CaseStudy_Employee" class, while the "company.case" package contains the "CaseStudy_EmployeeTest" class. The "company.case" package has been imported into the "company.casestudy" package.
